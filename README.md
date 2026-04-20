@@ -1,5 +1,15 @@
 # 💫 About Me:
-🛠️ I’m currently working on<br>Machine Learning projects<br>Real-world data problems<br>🤝 I’m looking to collaborate on<br>ML / AI projects<br>Open-source<br>🧠 I’m looking for help with<br>Advanced ML & optimization<br>🌱 I’m currently learning<br>Deep Learning<br>Model tuning<br>💬 Ask me about<br>Machine Learning<br>Python<br>⚡ Fun fact<br>I turn data into decisions 🚀
+🧠 Machine Learning Enthusiast  
+📊 I work on real-world data & ML projects  
+🚀 Focused on building practical AI solutions  
+
+- 🛠️ Currently working on: ML projects & data-driven systems  
+- 🤝 Open to collaborate on: ML / AI & Open Source  
+- 🌱 Learning: Deep Learning & Model Optimization  
+- 💬 Ask me about: Machine Learning, Python  
+- ⚡ Fun fact: I turn data into decisions  
+
+---
 
 
 ## 🌐 Socials:
